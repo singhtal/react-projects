@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-projects/super-squad/static/css/main.f50be8f3.chunk.css",
-    "main.js": "/react-projects/super-squad/static/js/main.b05e300f.chunk.js",
-    "main.js.map": "/react-projects/super-squad/static/js/main.b05e300f.chunk.js.map",
-    "runtime-main.js": "/react-projects/super-squad/static/js/runtime-main.79db33c6.js",
-    "runtime-main.js.map": "/react-projects/super-squad/static/js/runtime-main.79db33c6.js.map",
-    "static/js/2.a8f42097.chunk.js": "/react-projects/super-squad/static/js/2.a8f42097.chunk.js",
-    "static/js/2.a8f42097.chunk.js.map": "/react-projects/super-squad/static/js/2.a8f42097.chunk.js.map",
-    "index.html": "/react-projects/super-squad/index.html",
-    "precache-manifest.e3d97af529992016a47826af4bcd9830.js": "/react-projects/super-squad/precache-manifest.e3d97af529992016a47826af4bcd9830.js",
-    "service-worker.js": "/react-projects/super-squad/service-worker.js",
-    "static/css/main.f50be8f3.chunk.css.map": "/react-projects/super-squad/static/css/main.f50be8f3.chunk.css.map",
-    "static/media/index.css": "/react-projects/super-squad/static/media/background.4ddc758d.jpg",
-    "static/media/logo.svg": "/react-projects/super-squad/static/media/logo.25bf045c.svg"
+    "main.css": "/react-projects/static/css/main.17b7b7a7.chunk.css",
+    "main.js": "/react-projects/static/js/main.f2ac9a40.chunk.js",
+    "main.js.map": "/react-projects/static/js/main.f2ac9a40.chunk.js.map",
+    "runtime-main.js": "/react-projects/static/js/runtime-main.560ba209.js",
+    "runtime-main.js.map": "/react-projects/static/js/runtime-main.560ba209.js.map",
+    "static/js/2.a8f42097.chunk.js": "/react-projects/static/js/2.a8f42097.chunk.js",
+    "static/js/2.a8f42097.chunk.js.map": "/react-projects/static/js/2.a8f42097.chunk.js.map",
+    "index.html": "/react-projects/index.html",
+    "precache-manifest.b829c13015a8854597cae20df95479cf.js": "/react-projects/precache-manifest.b829c13015a8854597cae20df95479cf.js",
+    "service-worker.js": "/react-projects/service-worker.js",
+    "static/css/main.17b7b7a7.chunk.css.map": "/react-projects/static/css/main.17b7b7a7.chunk.css.map",
+    "static/media/index.css": "/react-projects/static/media/background.4ddc758d.jpg",
+    "static/media/logo.svg": "/react-projects/static/media/logo.25bf045c.svg"
   }
 }
