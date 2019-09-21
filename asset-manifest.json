@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/supersquad/static/css/main.ba4f52f4.chunk.css",
-    "main.js": "/supersquad/static/js/main.cfdf6011.chunk.js",
-    "main.js.map": "/supersquad/static/js/main.cfdf6011.chunk.js.map",
-    "runtime-main.js": "/supersquad/static/js/runtime-main.5c82aac5.js",
-    "runtime-main.js.map": "/supersquad/static/js/runtime-main.5c82aac5.js.map",
-    "static/js/2.17f10642.chunk.js": "/supersquad/static/js/2.17f10642.chunk.js",
-    "static/js/2.17f10642.chunk.js.map": "/supersquad/static/js/2.17f10642.chunk.js.map",
-    "index.html": "/supersquad/index.html",
-    "precache-manifest.6fc0b18670d3b70351dc20a983830754.js": "/supersquad/precache-manifest.6fc0b18670d3b70351dc20a983830754.js",
-    "service-worker.js": "/supersquad/service-worker.js",
-    "static/css/main.ba4f52f4.chunk.css.map": "/supersquad/static/css/main.ba4f52f4.chunk.css.map",
-    "static/media/index.css": "/supersquad/static/media/background.4ddc758d.jpg",
-    "static/media/logo.svg": "/supersquad/static/media/logo.25bf045c.svg"
+    "main.css": "/react-projects/supersquad/static/css/main.b5978628.chunk.css",
+    "main.js": "/react-projects/supersquad/static/js/main.fc4eea9d.chunk.js",
+    "main.js.map": "/react-projects/supersquad/static/js/main.fc4eea9d.chunk.js.map",
+    "runtime-main.js": "/react-projects/supersquad/static/js/runtime-main.374431a5.js",
+    "runtime-main.js.map": "/react-projects/supersquad/static/js/runtime-main.374431a5.js.map",
+    "static/js/2.17f10642.chunk.js": "/react-projects/supersquad/static/js/2.17f10642.chunk.js",
+    "static/js/2.17f10642.chunk.js.map": "/react-projects/supersquad/static/js/2.17f10642.chunk.js.map",
+    "index.html": "/react-projects/supersquad/index.html",
+    "precache-manifest.1d6cfa3c92449deef6e6f5dfead27bd6.js": "/react-projects/supersquad/precache-manifest.1d6cfa3c92449deef6e6f5dfead27bd6.js",
+    "service-worker.js": "/react-projects/supersquad/service-worker.js",
+    "static/css/main.b5978628.chunk.css.map": "/react-projects/supersquad/static/css/main.b5978628.chunk.css.map",
+    "static/media/index.css": "/react-projects/supersquad/static/media/background.4ddc758d.jpg",
+    "static/media/logo.svg": "/react-projects/supersquad/static/media/logo.25bf045c.svg"
   }
 }
