@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-projects/static/css/main.17b7b7a7.chunk.css",
-    "main.js": "/react-projects/static/js/main.f2ac9a40.chunk.js",
-    "main.js.map": "/react-projects/static/js/main.f2ac9a40.chunk.js.map",
-    "runtime-main.js": "/react-projects/static/js/runtime-main.560ba209.js",
-    "runtime-main.js.map": "/react-projects/static/js/runtime-main.560ba209.js.map",
-    "static/js/2.a8f42097.chunk.js": "/react-projects/static/js/2.a8f42097.chunk.js",
-    "static/js/2.a8f42097.chunk.js.map": "/react-projects/static/js/2.a8f42097.chunk.js.map",
-    "index.html": "/react-projects/index.html",
-    "precache-manifest.b829c13015a8854597cae20df95479cf.js": "/react-projects/precache-manifest.b829c13015a8854597cae20df95479cf.js",
-    "service-worker.js": "/react-projects/service-worker.js",
-    "static/css/main.17b7b7a7.chunk.css.map": "/react-projects/static/css/main.17b7b7a7.chunk.css.map",
-    "static/media/index.css": "/react-projects/static/media/background.4ddc758d.jpg",
-    "static/media/logo.svg": "/react-projects/static/media/logo.25bf045c.svg"
+    "main.css": "/supersquad/static/css/main.ba4f52f4.chunk.css",
+    "main.js": "/supersquad/static/js/main.432a1632.chunk.js",
+    "main.js.map": "/supersquad/static/js/main.432a1632.chunk.js.map",
+    "runtime-main.js": "/supersquad/static/js/runtime-main.5c82aac5.js",
+    "runtime-main.js.map": "/supersquad/static/js/runtime-main.5c82aac5.js.map",
+    "static/js/2.a8f42097.chunk.js": "/supersquad/static/js/2.a8f42097.chunk.js",
+    "static/js/2.a8f42097.chunk.js.map": "/supersquad/static/js/2.a8f42097.chunk.js.map",
+    "index.html": "/supersquad/index.html",
+    "precache-manifest.746b4789a59082b70e3cfb3fc1370409.js": "/supersquad/precache-manifest.746b4789a59082b70e3cfb3fc1370409.js",
+    "service-worker.js": "/supersquad/service-worker.js",
+    "static/css/main.ba4f52f4.chunk.css.map": "/supersquad/static/css/main.ba4f52f4.chunk.css.map",
+    "static/media/index.css": "/supersquad/static/media/background.4ddc758d.jpg",
+    "static/media/logo.svg": "/supersquad/static/media/logo.25bf045c.svg"
   }
 }
